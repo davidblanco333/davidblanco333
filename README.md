@@ -24,17 +24,14 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+🔭 I’m currently working on projects of robotics and drones
+🌱 I’m currently learning back end.
+👯 I’m looking to collaborate with Fullstack Web and Apis Server
+🤔 I’m looking for help with Open source Contribution.
+⚡ Fun fact: I 💖 code every technology, from microprocessors and.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **davidblanco232@yahoo.com.mx**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
