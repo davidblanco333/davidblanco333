@@ -1,10 +1,15 @@
 
-<a href="https://www.enji.dev/work/contact">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="David Blanco | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
-  </picture>
-</a>
-
-<h2>I'm Enji Kusnadi freelancer front-end developer</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Title</title>
+  <style>
+    /* Agrega aquí el estilo para la tipografía */
+  </style>
+</head>
+<body>
+  <h2>I'm David Blanco back-end developer</h2>
+</body>
+</html>
