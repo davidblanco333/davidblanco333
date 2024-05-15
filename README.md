@@ -16,8 +16,12 @@
        alt="snake" /></a>
 </div>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=7000&pause=300&color=314DF7&center=true&vCenter=true&random=false&width=435&lines=Never+Give+Up" alt="Typing SVG" /></a>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=7000&pause=300&color=314DF7&vCenter=true&random=false&width=435&lines=Never+Give+Up" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
