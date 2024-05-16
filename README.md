@@ -25,14 +25,19 @@
 
 <!--Intro start-->
 
-🔭 I’m currently working on projects of robotics and drones
-🌱 I’m currently learning back end.
-👯 I’m looking to collaborate with Fullstack Web and Apis Server
-🤔 I’m looking for help with Open source Contribution.
-⚡ Fun fact: I 💖 code every technology, from microprocessors and.
 
-![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
-![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
+🔭 I have worked a lot with codes for robots and automation systems
+
+🌱 I’m currently learning back end.
+
+👯 I’m looking to collaborate with Fullstack Web and Apis Server
+
+🤔 I’m looking for help with Open source Contribution.
+
+⚡ Fun fact: I 💖 code every technology, from microprocessors to sql server
+
+
+
 
 - 📫 Feel free to reach me out **davidblanco232@yahoo.com.mx**
 
@@ -42,25 +47,31 @@
 
 
 <!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+  <table align="center">
+    <tr border="none">
+         <td width="50%" align="center" valign="top">
+        <h1>Tech Stack</h1>
+        <!-- Escudos -->
+        <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" />
+        <img src="http://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" />
+        <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+        <br><br>
+        <!-- Estadísticas -->
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <!-- Imagen adicional -->
+        <img align="center" src="https://github.com/davidblanco333/davidblanco333/blob/main/JAVA.png" alt="Java Logo" />
+        <img align="center" src="https://github.com/davidblanco333/davidblanco333/blob/main/ANOTHER_IMAGE.png" alt="Another Image" />
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github.com/davidblanco333/davidblanco333/blob/main/JAVA.png"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 <!--- trophy (start) -->
 <div align=center>
