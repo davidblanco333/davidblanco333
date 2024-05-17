@@ -54,11 +54,13 @@
     <tr border="none">
          <td width="50%" align="center" valign="top">
         <h1>Tech Stack</h1>
+<h2>IDES</h2>
         <!-- Escudos -->
-        <img src="http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white" alt="Spring Badge" />
-        <img src="http://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" />
-        <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
-        <br><br>
+        
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,arduino" /><br>
+</a>
+         </div>
         <!-- Estadísticas -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
       </td>
