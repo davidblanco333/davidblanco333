@@ -60,7 +60,8 @@
         </a>
         <h2>Frameworks & Technologies</h2>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=spring,maven,aws,hibernate,git,mysql,sqlite,raspberrypi,matlab,blender" alt="Frameworks and Technologies Icons" /><br>
+          <img src="https://skillicons.dev/icons?i=spring,maven,aws,hibernate" alt="Frameworks and Technologies Icons" /><br>
+           <img src="https://skillicons.dev/icons?i=git,mysql,sqlite,raspberrypi,matlab,blender"
         </a>
         <!-- Estadísticas de GitHub -->
         <a href="https://github.com/davidblanco333/github-readme-stats">
