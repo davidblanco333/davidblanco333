@@ -61,6 +61,10 @@
 <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,arduino" /><br>
 </a>
          </div>
+<h2>FRAMEWORKS & TECHNOLOGIES</h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=spring,maven,aws,hibernate,git,mysql,sqlite,raspberrypi,matlab,blender" /><br>
+</a>
         <!-- Estadísticas -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
       </td>
