@@ -65,7 +65,7 @@
         </a>
         <!-- Estadísticas de GitHub -->
         <a href="https://github.com/davidblanco333/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=davidblanco333" alt="Anurag's GitHub stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=davidblanco333&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
